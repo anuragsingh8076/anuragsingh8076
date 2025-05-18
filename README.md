@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-🎓 I'm currently pursuing **B.I.T. at Marwari College**, Bhagalpur  
+🎓 I'm currently pursuing **Bsc.IT. at Marwari College**, Bhagalpur  
 💼 Training at **QSpiders Gurgaon** in Java Full Stack Development  
 🔧 Passionate about **backend development**, Java, APIs, and scalable systems  
 🧠 Always learning: exploring **React.js, JDBC, JSP, MySQL**
